@@ -1,0 +1,12 @@
+C:\Users\emreh\source\repos\Futbol\Futbol\bin\Debug\Futbol.exe.config
+C:\Users\emreh\source\repos\Futbol\Futbol\bin\Debug\Futbol.exe
+C:\Users\emreh\source\repos\Futbol\Futbol\bin\Debug\Futbol.pdb
+C:\Users\emreh\source\repos\Futbol\Futbol\obj\Debug\Futbol.csproj.AssemblyReference.cache
+C:\Users\emreh\source\repos\Futbol\Futbol\obj\Debug\Futbol.Form1.resources
+C:\Users\emreh\source\repos\Futbol\Futbol\obj\Debug\Futbol.Properties.Resources.resources
+C:\Users\emreh\source\repos\Futbol\Futbol\obj\Debug\Futbol.csproj.GenerateResource.cache
+C:\Users\emreh\source\repos\Futbol\Futbol\obj\Debug\Futbol.csproj.CoreCompileInputs.cache
+C:\Users\emreh\source\repos\Futbol\Futbol\obj\Debug\Futbol.exe
+C:\Users\emreh\source\repos\Futbol\Futbol\obj\Debug\Futbol.pdb
+C:\Users\emreh\source\repos\Futbol\Futbol\obj\Debug\Futbol.Form2.resources
+C:\Users\emreh\source\repos\Futbol\Futbol\obj\Debug\Futbol.Form3.resources
